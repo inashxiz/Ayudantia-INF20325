@@ -1,0 +1,31 @@
+30
+Minecraft-PlayStation;5
+Minecraft-Xbox;8
+Minecraft-Nintendo;6
+FIFA 25-PlayStation;10
+FIFA 25-Xbox;7
+Mario Kart 8 Deluxe-Nintendo;12
+Halo Infinite-Xbox;9
+The Last of Us Part II-PlayStation;6
+Minecraft-PlayStation;-2
+FIFA 25-PlayStation;-3
+Minecraft-Xbox;-4
+Mario Kart 8 Deluxe-Nintendo;-5
+Halo Infinite-Xbox;-2
+Minecraft-Nintendo;-1
+FIFA 25-Xbox;-2
+The Last of Us Part II-PlayStation;-1
+Minecraft-PlayStation;4
+Minecraft-Xbox;3
+FIFA 25-PlayStation;5
+Super Mario Odyssey-Nintendo;7
+Halo Infinite-Xbox;4
+Minecraft-Nintendo;3
+FIFA 25-Xbox;6
+The Last of Us Part II-PlayStation;3
+Minecraft-PlayStation;-4
+Minecraft-Xbox;-2
+FIFA 25-PlayStation;-5
+Super Mario Odyssey-Nintendo;-2
+Halo Infinite-Xbox;-3
+Minecraft-Nintendo;-4

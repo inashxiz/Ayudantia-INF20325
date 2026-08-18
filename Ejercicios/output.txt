@@ -1,0 +1,14 @@
+PlayStation:
+    - Minecraft: 3
+    - FIFA 25: 7
+    - The Last of Us Part II: 8
+
+Xbox:
+    - Minecraft: 5
+    - FIFA 25: 11
+    - Halo Infinite: 8
+
+Nintendo:
+    - Minecraft: 4
+    - Mario Kart 8 Deluxe: 7
+    - Super Mario Odyssey: 5
