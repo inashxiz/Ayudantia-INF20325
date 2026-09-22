@@ -6,3 +6,4 @@
 | 18 Agosto, 2026 | Análisis de Algoritmos, TDAs | [Ayudantía 2](PPTs/ayudantia-2-bigo.pdf) | [TDAs](Ejercicios/ayudantia-2/tdas.cpp) |
 | 25 Agosto, 2026 | Listas | [Ayudantía 3](PPTs/ayudantia-3.listas.pdf) | [Listas Basadas en Arreglos](Ejercicios/ayudantia-3/ejercicio-1.cpp), [Listas Enlazadas](Ejercicios/ayudantia-3/ejercicio-2.cpp) |
 | 01 de Septiembre, 2026 | Ejercicios | [Ayudantía 4](PPTs/ayudantia-4-ejercicios.pdf) | - |
+| 22 de Septiembre, 2026 | Pilas y Colas | [Ayudantía](/PPTs/ayudantia-5-pilas_y_colas.pdf) | [A1](Ejercicios/ayudantia-5/a1.cpp), [B1](Ejercicios/ayudantia-5/b1.cpp) |
