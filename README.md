@@ -8,3 +8,4 @@
 | 01 de Septiembre, 2026 | Ejercicios | [Ayudantía 4](PPTs/ayudantia-4-ejercicios.pdf) | - |
 | 22 de Septiembre, 2026 | Pilas y Colas | [Ayudantía 5](/PPTs/ayudantia-5-pilas_y_colas.pdf) | [A1](Ejercicios/ayudantia-5/a1.cpp), [B1](Ejercicios/ayudantia-5/b1.cpp) |
 | 29 de Septiembre, 2026 | Árboles y ABB | [Ayudantía 6](/PPTs/ayudantia-6-arboles.pdf) | - |
+| 05 de Octubre, 2026 | Árboles AVL | [Ayudantía 7](/PPTs/ayudantia-7-avl.pdf) | [AVL](/Ejercicios/ayudantia-7/Pauta%20Ayudantía%207.pdf) |
