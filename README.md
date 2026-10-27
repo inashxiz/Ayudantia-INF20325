@@ -11,3 +11,4 @@
 | 05 de Octubre, 2026 | Árboles AVL | [Ayudantía 7](/PPTs/ayudantia-7-avl.pdf) | [AVL](/Ejercicios/ayudantia-7/Pauta%20Ayudantía%207.pdf) |
 | 13 de Octubre, 2026 | Árboles 2-3 | [Ayudantía 8](/PPTs/ayudantia-8-arbol2-3.pdf) | [Árboles 2-3, Pilas y Colas](/Ejercicios/ayudantia-8/Ayudantía__8___EDD_2026.pdf) |
 | 20 de Octubre, 2026 | Árboles Rojo-Negro | [Ayudantía 9](/PPTs/ayudantia-9-arbol-rojo-negro.pdf) | [Árboles, Pilas y Colas](/Ejercicios/ayudantia-9/Pauta%20Ayudantía%209.pdf), [Solución Propuesta Precertamen2](/Ejercicios/ayudantia-9/Solución%20Propuesta%20Precertamen%202.pdf) |
+| 27 de Octubre, 2026 | Resolución C2 | - | [Solución Propuesta A](/Ejercicios/ayudantia-10/C2-A), [Solución Propuesa B](/Ejercicios/ayudantia-10/C2-B) |
