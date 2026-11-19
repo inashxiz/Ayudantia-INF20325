@@ -13,3 +13,5 @@
 | 20 de Octubre, 2026 | Árboles Rojo-Negro | [Ayudantía 9](/PPTs/ayudantia-9-arbol-rojo-negro.pdf) | [Árboles, Pilas y Colas](/Ejercicios/ayudantia-9/Pauta%20Ayudantía%209.pdf), [Solución Propuesta Precertamen2](/Ejercicios/ayudantia-9/Solución%20Propuesta%20Precertamen%202.pdf) |
 | 27 de Octubre, 2026 | Resolución C2 | - | [Solución Propuesta A](/Ejercicios/ayudantia-10/C2-A), [Solución Propuesa B](/Ejercicios/ayudantia-10/C2-B) |
 | 03 de Noviembre, 2026 | Grafos | [Ayudantía 11](PPTs/ayudantia-11-grafos.pdf) | [Grafos](/EJercicios/ayudantia-11/Pauta%20Ayudantía%2011.pdf) |
+| 10 de Noviembre, 2026 | Colas de Prioridad | [Ayudantía 12](PPTs/ayudantia-12-colas-de-prioridad.pdf) | - |
+| 17 de Noviembre, 2026 | Hashing | [Ayudantía 13](PPTs/ayudantia-13-hashing.pdf) | - |
