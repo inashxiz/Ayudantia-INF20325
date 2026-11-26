@@ -15,3 +15,4 @@
 | 03 de Noviembre, 2026 | Grafos | [Ayudantía 11](PPTs/ayudantia-11-grafos.pdf) | [Grafos](/EJercicios/ayudantia-11/Pauta%20Ayudantía%2011.pdf) |
 | 10 de Noviembre, 2026 | Colas de Prioridad | [Ayudantía 12](PPTs/ayudantia-12-colas-de-prioridad.pdf) | - |
 | 17 de Noviembre, 2026 | Hashing | [Ayudantía 13](PPTs/ayudantia-13-hashing.pdf) | - |
+| 24 de Noviembre, 2026 | Pre Certamen 3 | [Ayudantía 14](PPTs/ayudantia-14-prec3.pdf) | - |
